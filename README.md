@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @robpowell89
-- 👀 I’m interested in coding and secuirty
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m Robert Powell
+- 👀 I’m interested in coding and secuirty and learning the field in code ky in fall 2021
+- 🌱 I’m currently learning GIT, GIThub, CSS, and HTML
 - 💞️ I’m looking to collaborate on project for code ky in fall 2021
 - 📫 How to reach me at robertpowell15@yahoo.com
 
